@@ -1,6 +1,5 @@
 iTerm2
 Spectacle
-Atom
 VS Code
 Docker
 brew

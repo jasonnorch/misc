@@ -3,3 +3,4 @@ Spectacle
 VS Code
 Docker
 brew
+pgcli
